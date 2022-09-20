@@ -1,0 +1,98 @@
+/* Navbar */
+
+.barra-gris {
+    background-color: #444;
+}
+
+.conf {
+    color: #fff;
+}
+
+.nav-link {
+    color: lightgray;
+}
+
+.comprar {
+    color: green;
+}
+
+.boton-head {
+    margin: 0 10px;
+}
+
+.container-fluid {
+    margin: 0 5%;
+}
+
+/* Seccion Comprar */
+#comprar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('./assets/ba1.jpg');
+    background-size:cover;
+    background-position: center;
+}
+
+.foto-comprar {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 600px;
+    margin-right: 10%;
+    text-align: right;
+    color: #fff;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h3 {
+    color: #fff;
+}
+
+.card {
+    margin: 0 20px;
+}
+
+.conoce {
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+
+.fondo-playa {
+    background-image: url('./assets/honolulu.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo-gris {
+    background-color: #444;
+    color: #fff;
+}
+
+.octubre {
+    margin-bottom: 200px;
+}
+
+.caja-texto {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.formulario {
+    padding: 0 20%;
+}
+
+.boton-enviar {
+    background-color: #96C93E;
+}
+
+.recuerda {
+    font-size: 0.75rem;
+    text-align: left;
+}
+
+.piepag {
+    background-color: #444;
+    margin-top: 5%;
+}
