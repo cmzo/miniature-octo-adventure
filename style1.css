@@ -1,0 +1,27 @@
+.color-footer{
+    background-color: rgb(8, 78, 99);
+    padding: 1%;
+    text-align: center;
+    
+}
+
+.color-barra{
+    background-color: rgb(75, 70, 70);
+    padding: 0;
+}
+
+.color-boton {
+    background-color: rgb(138, 224, 148);
+}
+
+
+.tarjetas{
+    margin-left: 250px;
+   
+    
+}
+
+.boton-comprar{
+    background-color: rgb(111, 216, 111);
+}
+
